@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  practice
 //
-//  Created by 松原 有城 on 2018/05/16.
-//  Copyright © 2018年 松原 有城. All rights reserved.
-//
 ///funkの中にfunkは入れられない。
 ///funk外でも使いたい時はclassの下に書く。
 ///クロージャの時は self.〜 にする。
