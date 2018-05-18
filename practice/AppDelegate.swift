@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  practice
 //
-//  Created by 松原 有城 on 2018/05/16.
-//  Copyright © 2018年 松原 有城. All rights reserved.
 //
 
 import UIKit
